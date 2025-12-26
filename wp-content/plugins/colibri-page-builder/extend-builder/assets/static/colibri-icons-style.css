@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'colibri';
-  src:  url('/portfolio1//wp-content/plugins/colibri-page-builder/extend-builder/assets/static/fonts/colibri.eot?p3tp68');
-  src:  url('/portfolio1//wp-content/plugins/colibri-page-builder/extend-builder/assets/static/fonts/colibri.eot?p3tp68#iefix') format('embedded-opentype'),
-  url('/portfolio1//wp-content/plugins/colibri-page-builder/extend-builder/assets/static/fonts/colibri.ttf?p3tp68') format('truetype'),
-  url('/portfolio1//wp-content/plugins/colibri-page-builder/extend-builder/assets/static/fonts/colibri.woff?p3tp68') format('woff'),
-  url('/portfolio1//wp-content/plugins/colibri-page-builder/extend-builder/assets/static/fonts/colibri.svg?p3tp68#colibri') format('svg');
+  src:  url('/portfolio1/wp-content/plugins/colibri-page-builder/extend-builder/assets/static/fonts/colibri.eot?p3tp68');
+  src:  url('/portfolio1/wp-content/plugins/colibri-page-builder/extend-builder/assets/static/fonts/colibri.eot?p3tp68#iefix') format('embedded-opentype'),
+  url('/portfolio1/wp-content/plugins/colibri-page-builder/extend-builder/assets/static/fonts/colibri.ttf?p3tp68') format('truetype'),
+  url('/portfolio1/wp-content/plugins/colibri-page-builder/extend-builder/assets/static/fonts/colibri.woff?p3tp68') format('woff'),
+  url('/portfolio1/wp-content/plugins/colibri-page-builder/extend-builder/assets/static/fonts/colibri.svg?p3tp68#colibri') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
